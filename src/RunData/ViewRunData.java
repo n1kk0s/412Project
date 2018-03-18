@@ -8,7 +8,8 @@ package RunData;
 import PairAndStatus.*;
 
 /**
- *
+ * This sets the actual screen for current run data and gets the information from RunCntl in order to
+ * display the correct information to the user.
  * @author laurenritter
  */
 public class ViewRunData {
