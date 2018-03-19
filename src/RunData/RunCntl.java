@@ -18,6 +18,11 @@ import java.util.ArrayList;
  */
 public class RunCntl {
     
+    /**
+     * This is the constructor that will help with connecting to the BLE on the snowboard.
+     * @param blePairing This will help with getting the information from BLEPairing to get 
+     * information from the snowboard.
+     */
     public RunCntl(BLEPairing blePairing){
         
     }
